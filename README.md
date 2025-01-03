@@ -13,14 +13,14 @@ As part of my Final Project for the Visualization module of the Data Science Sof
 ### Navigating my Final Project submission:
 
 1. Data Visualization using Python
-    * Goal: Create data visualizations the Average Salary by Sector based on the Ontario Public Sector Salary Discloure for the years 2019 to 2023 (5 Years).
+    * Goal: Create data visualizations the Average Salary by Sector based on the Ontario Public Sector Salary Disclosure for the years 2019 to 2023 (5 Years).
     * Supporting Files:
         * [1_python_viz.md](ontario_public_sector_salary/1_python_viz.md) - contains my answers to the describe and justify questions.
         * [2_python_visualization_1.ipynb](ontario_public_sector_salary/2_python_visualization_1.ipynb) - contains the python code I used to create the data visualization
         * [python_viz_output](ontario_public_sector_salary/python_viz_output) folder.
 
 2. Data Visualization using Tableau Public
-    * Goal: Create robust data visualizations of the Average Salary by Sector based on the Ontario Public Sector Salary Discloure for the years 1996 to 2023 (28 years). 
+    * Goal: Create robust data visualizations of the Average Salary by Sector based on the Ontario Public Sector Salary Disclosure for the years 1996 to 2023 (28 years). 
     * Supporting Files:
         * [3_tableau_viz.md](ontario_public_sector_salary/3_tableau_viz.md) (contains my answers to the describe and justify questions)
         * [4_data_cleaning_for_tableau.ipynb](ontario_public_sector_salary/4_data_cleaning_for_tableau.ipynb)
