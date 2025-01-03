@@ -27,7 +27,7 @@ As part of my Final Project for the Visualization module of the Data Science Sof
         * Link to Tableau Public: https://public.tableau.com/app/profile/adrienne.lloren/viz/shared/7QQDTS66C
 
 
-### Final Project Requirements:
+## Final Project Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
