@@ -1,7 +1,7 @@
 # Ontario Public Sector Salary Disclosure
 Data Science Institute - Cohort 4 - Data Visualization: Final Project
 
-As part of my Final Project for the Visualization module of the Data Science Software Foundations certificate I created data visualizations for the Ontario Public Sector Salary Discloure between 1996 and 2023. To start I explored static data visualization using Python for 5 years of the dataset. Next, I explored a creating dynamic plots using Tableau Public. Lastly, I expanded this project into a comprehensive Tableau Dashboard (in-progress).
+As part of my Final Project for the Visualization module of the Data Science Software Foundations certificate I created data visualizations for the Ontario Public Sector Salary Disclosure between 1996 and 2023. To start I explored static data visualization using Python for 5 years of the dataset. Next, I explored creating dynamic plots using Tableau Public. Lastly, I expanded this project into a comprehensive Tableau Dashboard (in-progress).
 
 ## Data Visualization: Final Project
 
